@@ -73,7 +73,7 @@ This project investigates the use of different classification models to predict 
 ### [Analysis of Economic Indicators: Okun's Law](https://github.com/aurvl/Mes-Projets)
 This project analyzes key economic indicators, specifically GDP and unemployment rates, using data from Eurostat. The main objective is to explore the relationship between GDP growth and unemployment rates through the framework of Okun's Law. By applying this economic principle, we aim to understand how shifts in unemployment correspond to changes in GDP, providing insights into economic performance and trends over time.
 
-![](assets/img/okun.png)
+![](assets/img/okun.jpg)
 
 
 ### [Analysis of Belgian Exports and Imports (1995-2023)](https://github.com/aurvl/Mes-Projets)
@@ -87,11 +87,6 @@ This Python project delves into the relationship between inflation and unemploym
 
 ![](assets/img/poicy.jpg)
 
-
-## 📜 Certifications
-
-- **PIX Certification**  
-  Verified proficiency in digital skills
 
 ## 📞 Contacts
 - [Linkedin](www.linkedin.com/in/loua-aurel-vehi-29887a290)
