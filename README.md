@@ -84,9 +84,9 @@ This Python project delves into the relationship between inflation and unemploym
 <img src="assets/img/poicy.jpg" alt="Phillips Curve Analysis and Policy Guidance for Europe 2024" width="400" />
 
 ## 📞 Contacts
+- [Email](mailto:aurelvehi@outlook.fr)
 - [Linkedin](www.linkedin.com/in/loua-aurel-vehi-29887a290)
 - [Github](https://github.com/aurvl)
-- [Email](mailto:aurelvehi@outlook.fr)
 
 
 ## 🎯 Interests
