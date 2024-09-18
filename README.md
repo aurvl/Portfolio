@@ -6,7 +6,6 @@ As a second-year Master’s student in Economics, specializing in Economic Data 
 
 Driven by ambition and a love for economic and social sciences, I aim to contribute to impactful research and data-driven solutions. I’m always eager to collaborate, learn, and bring innovative insights to the table.
 
-You can found my CV [here]().
 
 ## 🎓 Education
 
