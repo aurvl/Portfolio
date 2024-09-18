@@ -80,7 +80,7 @@ This project analyzes key economic indicators, specifically GDP and unemployment
 ### [Analysis of Belgian Exports and Imports (1995-2023)](https://github.com/aurvl/Mes-Projets)
 This report presents an econometric analysis of Belgium's exports and imports. The study investigates the time series of Belgian foreign trade to understand historical trends, assess relationships between variables, and provide forecasts over a 10-quarter period. The report is divided into two main sections: a univariate time series analysis to explore individual characteristics and a multivariate analysis to examine the interactions between the various series.
 
-![](assets/img/bel.jpg)
+![](assets/img/belg.jpg)
 
 
 ### [Phillips Curve Analysis and Policy Guidance for Europe 2024](https://github.com/aurvl/Mes-Projets)
