@@ -9,7 +9,7 @@ Driven by ambition and a love for economic and social sciences, I aim to contrib
 
 ## 🎓 Education
 
-- **Master in Economics - Expertise and Data Analysis**  
+- **Master in Economics, Expertise and Data Analysis**  
   *EUR ELMI, Université Côte d’Azur - France (2023 - 2025)*  
 
 - **Bachelor in Economics and Management**  
@@ -20,11 +20,11 @@ Driven by ambition and a love for economic and social sciences, I aim to contrib
 
 ## 💼 Professional Experience
 
-- **Finance and Data Analysis Intern** | *Family Sphère, Nice (July - August 2023)*  
+- **Finance and Data Analysis Intern** - *Family Sphère, Nice (July - August 2023)*  
   - Prepared dashboards and financial reports  
   - Assisted in developing budgets and analyzing financial data
 
-- **Private Math Tutor** | *Family Sphère, Nice (March - June 2023)*  
+- **Private Math Tutor** - *Family Sphère, Nice (March - June 2023)*  
   - Adapted teaching methods for personalized learning  
   - Helped students improve their understanding of mathematical concepts
 
