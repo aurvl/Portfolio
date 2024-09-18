@@ -60,9 +60,6 @@ I am a 2nd-year Master’s student in Economics at Université Côte d’Azur, s
 - **PIX Certification**  
   Verified proficiency in digital skills
 
-## 📈 Portfolio
-
-Explore my [GitHub repository](https://github.com/aurvl/Mes-Projets) for academic projects and data analysis work that I’ve completed as part of my studies.
 
 ## 🎯 Interests
 
