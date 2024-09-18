@@ -1,4 +1,4 @@
-# Aurel Vehi - 2nd Year Master’s Student in Economics
+# 2nd Year Master’s Student in Economics
 
 ## 🎓 About Me
 
