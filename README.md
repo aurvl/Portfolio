@@ -1,4 +1,4 @@
-# Loua Aurel Vehi - 2nd Year Master’s Student in Economics
+# Aurel Vehi - 2nd Year Master’s Student in Economics
 
 ## 🎓 About Me
 
