@@ -3,6 +3,7 @@
 ## 🎓 About Me
 
 I am a 2nd-year Master’s student in Economics at Université Côte d’Azur, specializing in Big Data and Machine Learning. Passionate about data analysis, I am eager to improve my skills and gain hands-on experience through real-world projects and internships. My goal is to apply my knowledge to solve complex economic and business challenges, leveraging the power of data to drive informed decision-making.
+You can found my CV [here]()
 
 ## 🎓 Education
 
