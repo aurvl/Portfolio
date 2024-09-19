@@ -53,6 +53,11 @@ Driven by ambition and a love for economic and social sciences, I aim to contrib
 
 ## 🏆 Projects
 
+### [Environment and trade agreements](https://github.com/aurvl/Mes-Projets/blob/main/Trend/memoire.md)
+This thesis examines the emphasis on environment in preferential trade agreements (PTAs). Using quantitative methods and available data on agreements signed since 1947, we have created an indicator measuring the degree of environmental attention in these agreements. Our results show an increasing attention given to the environment since the end of 1980s, particularly in North South agreements. Factors such as the level of democracy, the trade flows, the geographical proximity and CO2 emissions appear to influence this trend. These conclusions emphasize the growing importance of ecological issues in international trade and indicate that PTAs can play a key role in promoting sustainable business practices. However, the effectiveness of resolutions in these agreements depend on their implementation and the compliance of signatories, necessitating further research to assess their long-term impacts.
+
+<img src="assets/img/trend.jpg" alt="Environment and trade agreements" width="400" />
+
 ### [Factorial Analysis of Mixed Data (FAMD)](https://github.com/aurvl/Mes-Projets/blob/main/Famd/famd.md)
 This project explores the application of Factorial Analysis of Mixed Data (FAMD) to the well-known "adult" dataset from the UCI Machine Learning Repository. FAMD is a powerful technique for dimensionality reduction that handles both quantitative and qualitative variables simultaneously. The aim of this project is to uncover the relationships between variables and individuals in the dataset by reducing its complexity, while retaining as much variance as possible. Through this analysis, we gain deeper insights into the structure of the data, which can inform further analysis and decision-making.
 
