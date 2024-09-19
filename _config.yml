@@ -5,7 +5,3 @@ show_downloads: false
 show_github_ribbon: false
 google_analytics: G-X8DZQC5PBF
 theme: jekyll-theme-minimal
-footer:
-  social_links:
-    github: https://github.com/aurvl
-    linkedin: https://linkedin.com/in/aurel
