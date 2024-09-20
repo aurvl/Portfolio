@@ -53,8 +53,8 @@ Driven by ambition and a love for economic and social sciences, I aim to contrib
 
 ## 🏆 Projects
 
-### [Environment and trade agreements](https://github.com/aurvl/Mes-Projets/blob/main/Trend/memoire.md)
-This thesis examines the emphasis on environment in preferential trade agreements (PTAs). Using quantitative methods and available data on agreements signed since 1947, we have created an indicator measuring the degree of environmental attention in these agreements. Our results show an increasing attention given to the environment since the end of 1980s, particularly in North South agreements. Factors such as the level of democracy, the trade flows, the geographical proximity and CO2 emissions appear to influence this trend. These conclusions emphasize the growing importance of ecological issues in international trade and indicate that PTAs can play a key role in promoting sustainable business practices. However, the effectiveness of resolutions in these agreements depend on their implementation and the compliance of signatories, necessitating further research to assess their long-term impacts.
+### [Analysis of the Environmental Awareness Index (IAE) in Preferential Trade Agreements (PTA)](https://github.com/aurvl/Mes-Projets/blob/main/IAE%20Trends/IAE%20trends.md)
+This project explores the Environmental Attention Index (IAE) in Preferential Trade Agreements (ACPr), showcasing how countries address environmental issues in their trade policies. Using data from the TREND database, I analyzed and visualized these insights through an interactive Power BI report. The project combines data analysis in Python, Excel for data cleanup, and Power BI for engaging visualizations. This work highlights my skills in turning complex datasets into actionable insights, offering a fresh perspective on global trade and environmental priorities. Explore the full project to see how data can drive better understanding of policy impacts.
 
 <img src="assets/img/trend.jpg" alt="Environment and trade agreements" width="400" />
 
