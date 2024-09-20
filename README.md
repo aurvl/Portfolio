@@ -56,7 +56,10 @@ Driven by ambition and a love for economic and social sciences, I aim to contrib
 ### [Analysis of the Environmental Awareness Index (IAE) in Preferential Trade Agreements](https://github.com/aurvl/Mes-Projets/blob/main/IAE%20Trends/IAE%20trends.md)
 This project explores the Environmental Attention Index (IAE) in Preferential Trade Agreements (ACPr), showcasing how countries address environmental issues in their trade policies. Using data from the TREND database, I analyzed and visualized these insights through an interactive Power BI report. The project combines data analysis in Python, Excel for data cleanup, and Power BI for engaging visualizations. This work highlights my skills in turning complex datasets into actionable insights, offering a fresh perspective on global trade and environmental priorities. Explore the full project to see how data can drive better understanding of policy impacts.
 
-<img src="assets/img/trend.jpg" alt="Environment and trade agreements" width="400" />
+<p>
+  <img src="assets/img/tr1.png" alt="GDP Serbia" width="500" style="display:inline-block; vertical-align:middle;" />
+  <img src="assets/img/tr2.png" alt="Unemployment Serbia" width="500" style="display:inline-block; vertical-align:middle;" />
+</p>
 
 ### [Factorial Analysis of Mixed Data (FAMD)](https://github.com/aurvl/Mes-Projets/blob/main/Famd/famd.md)
 This project explores the application of Factorial Analysis of Mixed Data (FAMD) to the well-known "adult" dataset from the UCI Machine Learning Repository. FAMD is a powerful technique for dimensionality reduction that handles both quantitative and qualitative variables simultaneously. The aim of this project is to uncover the relationships between variables and individuals in the dataset by reducing its complexity, while retaining as much variance as possible. Through this analysis, we gain deeper insights into the structure of the data, which can inform further analysis and decision-making.
