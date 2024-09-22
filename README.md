@@ -61,6 +61,8 @@ This project explores the Environmental Attention Index (IAE) in Preferential Tr
   <img src="assets/img/tr2.png" alt="Unemployment Serbia" width="500" style="display:inline-block; vertical-align:middle;" />
 </p>
 
+<br>
+
 ### [Factorial Analysis of Mixed Data (FAMD)](https://github.com/aurvl/Mes-Projets/blob/main/Famd/famd.md)
 This project explores the application of Factorial Analysis of Mixed Data (FAMD) to the well-known "adult" dataset from the UCI Machine Learning Repository. FAMD is a powerful technique for dimensionality reduction that handles both quantitative and qualitative variables simultaneously. The aim of this project is to uncover the relationships between variables and individuals in the dataset by reducing its complexity, while retaining as much variance as possible. Through this analysis, we gain deeper insights into the structure of the data, which can inform further analysis and decision-making.
 
