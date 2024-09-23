@@ -114,6 +114,30 @@ Here are my links:
 
 ### 📨 Or send me a message:
 
+<style>
+  form div {
+    margin-bottom: 15px;
+  }
+  label {
+    font-weight: bold;
+  }
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #0056b3;
+  }
+</style>
+
 <form action="https://formspree.io/f/meojbvlg" method="POST">
   <div>
     <label for="email">Your Email:</label><br>
