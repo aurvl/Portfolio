@@ -106,7 +106,26 @@ This Python project delves into the relationship between inflation and unemploym
 #### [More projects](https://github.com/aurvl/Projects/tree/main)
 
 ## 📞 Contacts
-- [Email](mailto:aurelvehi@outlook.fr)
-- [Linkedin](https://www.linkedin.com/in/loua-aurel-vehi-29887a290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3OpjFDeiRU2M9Mk%2BcvSl0A%3D%3D)
-- [Github](https://github.com/aurvl)
 
+Here are my links:
+
+- [🔗 LinkedIn](https://www.linkedin.com/in/loua-aurel-vehi-29887a290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3OpjFDeiRU2M9Mk%2BcvSl0A%3D%3D)
+- [🐱 GitHub](https://github.com/aurvl)
+
+### 📨 Or send me a message:
+
+<form action="https://formspree.io/f/meojbvlg" method="POST">
+  <div>
+    <label for="email">Your Email:</label><br>
+    <input type="email" id="email" name="email" required>
+  </div>
+  
+  <div>
+    <label for="message">Your Message:</label><br>
+    <textarea id="message" name="message" rows="5" required></textarea>
+  </div>
+  
+  <div>
+    <button type="submit">Send</button>
+  </div>
+</form>
