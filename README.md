@@ -1,8 +1,3 @@
-<link rel="stylesheet" type="text/css" href="assets/style.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Prata&display=swap" rel="stylesheet">
-
 # 2nd Year Master’s Student in Economics
 
 ## About Me
