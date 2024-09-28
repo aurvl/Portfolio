@@ -1,6 +1,7 @@
 title: Aurel VEHI
 logo: assets/img/cropped_img.png
 #description: text below image
+custom_css: assets/style.css
 show_downloads: false
 show_github_ribbon: false
 google_analytics: G-X8DZQC5PBF
