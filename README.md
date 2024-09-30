@@ -77,7 +77,7 @@ In this project, machine learning techniques are applied to predict house prices
 
 <br>
 
-### [Classification Models for Family History of Overweight](https://github.com/aurvl/Projects/blob/main/Obesity/Obesity.md)
+### [Classification Models for Family History of Overweight](https://github.com/aurvl/Projects/blob/main/Overweight/Overweight.md)
 This project investigates the use of different classification models to predict whether an individual has a family history of overweight. Three machine learning algorithms are implemented and compared: Logistic Regression, Random Forest Classifier, and XGBoost Classifier. The main objective is to evaluate and contrast the performance of these models based on metrics such as accuracy, precision, recall, F1-score, and AUC-ROC.
 
 <img src="assets/img/obesity.png" alt="Classification Models for Family History of Overweight" width="400" />
