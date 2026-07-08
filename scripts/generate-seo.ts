@@ -26,6 +26,10 @@ const seriesPath = path.join(rootDir, 'src/data/series.json')
 const robotsPath = path.join(publicDir, 'robots.txt')
 const sitemapPath = path.join(publicDir, 'sitemap.xml')
 const spaFallbackPath = path.join(publicDir, '404.html')
+const legacyRedirects = [
+  { fileName: 'home_fr.html', lang: 'fr' },
+  { fileName: 'home_en.html', lang: 'en' },
+]
 
 const posts = loadPosts()
 const projects = loadProjects()
@@ -89,7 +93,14 @@ fs.writeFileSync(
 )
 fs.writeFileSync(spaFallbackPath, buildSpaFallbackHtml(siteUrl))
 
-console.log(`Generated robots.txt, sitemap.xml, and 404.html for ${siteUrl}`)
+for (const redirect of legacyRedirects) {
+  fs.writeFileSync(
+    path.join(publicDir, redirect.fileName),
+    buildLegacyRedirectHtml(siteUrl, redirect.lang)
+  )
+}
+
+console.log(`Generated robots.txt, sitemap.xml, 404.html, and legacy redirects for ${siteUrl}`)
 
 function loadPosts() {
   const fileNames = fs
@@ -231,6 +242,31 @@ function buildSpaFallbackHtml(currentSiteUrl: string) {
     </script>
   </head>
   <body></body>
+</html>
+`
+}
+
+function buildLegacyRedirectHtml(currentSiteUrl: string, lang: string) {
+  const targetUrl = new URL('.', currentSiteUrl).toString()
+
+  return `<!doctype html>
+<html lang="${lang}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="robots" content="noindex,follow" />
+    <link rel="canonical" href="${targetUrl}" />
+    <meta http-equiv="refresh" content="0; url=${targetUrl}" />
+    <title>Redirecting...</title>
+    <script>
+      (function() {
+        var targetUrl = ${JSON.stringify(targetUrl)};
+        window.location.replace(targetUrl + window.location.search + window.location.hash);
+      })();
+    </script>
+  </head>
+  <body>
+    <p>This page moved to <a href="${targetUrl}">${targetUrl}</a>.</p>
+  </body>
 </html>
 `
 }
